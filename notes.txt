@@ -1,0 +1,3 @@
+- jobdesk
+- membuat database apotek
+- input data
