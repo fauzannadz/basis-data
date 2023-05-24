@@ -1,0 +1,6 @@
+Rencana Project
+  Membuat Database Sekolah
+  Membuat Halaman Dashboard
+  Membuat Halaman Profile
+  Membuat Halaman SPP
+  Membuat Halaman Pembayaran SPP
